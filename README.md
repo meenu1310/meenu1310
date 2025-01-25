@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on networking<br>🌱 I’m currently learning system programming<br>
+🔭 Senior Software Engineer at Maxlinear<br>🌱 I’m currently learning System Programming<br>
 
 
 ## 🌐 Socials:
